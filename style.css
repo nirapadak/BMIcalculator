@@ -1,0 +1,95 @@
+*{
+    margin: auto;
+    padding: 0%;
+    background-color: rgb(26, 132, 224);
+}
+.disply{
+    margin-top: 40px;
+    height: 500px;
+    width: 420px;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+.title{
+    margin: auto;
+    padding: 7px;
+    text-align: center;
+    background-color: rgb(34, 87, 184);
+}
+
+.inputDis{
+    display: flex;
+    flex-direction: column;
+    background: transparent;
+    margin: auto;
+    padding: 20px;
+}
+
+input{
+    background-color: aliceblue;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    gap: 30px;
+    stroke: none;
+    
+    
+}
+label{
+    background-color: transparent;
+    font-size: 20px;
+    
+}
+button{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-size: 20px;
+    color: aliceblue;
+    stroke-width: 0%;
+    border: none;
+    border-radius: 5px;
+}
+h1{
+    background-color: transparent;
+    margin-top: 20px;
+}
+.wh{
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+}
+.feet{
+    width: 90px;
+
+}
+.inc{
+    width: 90px;
+
+}
+
+.ww{
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+}
+p{
+    font-size: small;
+    background-color: transparent;
+}
+.com{
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+}
+.no{
+    display: flex;
+    margin: 40px;
+    background-color: transparent;
+}
+.comment{
+    display: flex;
+    margin: 40px;
+    margin-left: 10px;
+    background-color: transparent;
+}
